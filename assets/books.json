@@ -1,0 +1,58 @@
+[
+  {
+    "rating": "4.5",
+    "title": "Dart",
+    "text": "Martin Hiyat",
+    "img": "post_1.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "Flutter",
+    "text": "Martin Hiyat2",
+    "img": "post_2.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "Javascript",
+    "text": "Martin Hiyat",
+    "img": "post_1.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "PYthon",
+    "text": "Martin Hiyat2",
+    "img": "post_2.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "Surxon",
+    "text": "Martin Hiyat",
+    "img": "post_1.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "Samarqand",
+    "text": "Martin Hiyat2",
+    "img": "post_2.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "Buxoro",
+    "text": "Martin Hiyat",
+    "img": "post_1.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "Toshkent",
+    "text": "Martin Hiyat2",
+    "img": "post_2.png",
+    "audio": "Voices.mp3"
+  }
+]
